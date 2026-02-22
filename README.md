@@ -49,27 +49,3 @@ The West End, Erand Gardens, Midrand, 1687
 
 **Phone:** +27 84 782 2372  
 **Email:** **info@pogidja.co.za**
-
----
-
-### Repository Notes
-This README is designed for GitHub. To add your Google review image, place the image file in an `assets/` folder and reference it like:
-
-```markdown
-![Google review](assets/google-review.png)
-```
-
-### How to publish on GitHub
-1. Create a new repository on GitHub (public or private).
-2. Download this README.md and place it at the root of your repository.
-3. (Optional) Create `assets/` and add supporting images.
-4. Commit and push:
-
-```bash
-git init
- git add README.md assets/
- git commit -m "Add POG Advisory & Chartered Accountants business profile"
- git branch -M main
- git remote add origin https://github.com/<your-username>/<your-repo>.git
- git push -u origin main
-```
